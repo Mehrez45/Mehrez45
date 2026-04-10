@@ -3,7 +3,7 @@
 # Mehrez Al-Ayari
 
 **Computer Science @ University of Surrey**  
-Backend Systems • AI (RAG) • Distributed Systems  
+Backend Systems • Applied AI • Distributed Systems • Computer Vision  
 
 <br>
 
@@ -13,17 +13,17 @@ Backend Systems • AI (RAG) • Distributed Systems
 
 </div>
 
-Computer Science student specializing in high-performance backend systems and applied AI.  
-Built scalable REST APIs, distributed pipelines, and Retrieval-Augmented Generation (RAG) systems with local LLM orchestration.
+Computer Science student building production-style backend systems, distributed pipelines, and applied AI/ML projects.  
+Experienced in scalable APIs, event-driven architectures, Retrieval-Augmented Generation (RAG), and CNN-based computer vision systems.
 
 ---
 
 ## 🚀 What I do
 
-- **Backend Engineering:** REST APIs, authentication (JWT/RBAC), database design
-- **Agentic AI Systems:** retrieval pipelines, FAISS, multi-agent orchestration, local LLMs   
-- **Distributed Systems:** event-driven pipelines, stream processing, real-time systems  
-
+- **Backend Engineering:** scalable REST APIs, authentication (JWT/RBAC), database design, service architecture
+- **Applied AI Systems:** RAG pipelines, vector search, local LLM orchestration, multi-agent workflows
+- **Machine Learning & Computer Vision:** CNN-based image classification, model training, inference pipelines, explainability overlays
+- **Distributed Systems:** event-driven pipelines, stream processing, real-time data workflows
 
 ---
 
@@ -31,10 +31,10 @@ Built scalable REST APIs, distributed pipelines, and Retrieval-Augmented Generat
 
 | Project | What it is | Tech / Focus |
 |--------|-----------|-------------|
-| **Advanced RAG System** | Multi-agent RAG pipeline with local LLM inference and advanced retrieval | FAISS • LangGraph • SentenceTransformers • llama.cpp |
-| **Real-Time Transaction Pipeline** | Event-driven system for streaming, processing, and anomaly detection | Redpanda • Apache Flink • Redis • Docker |
-| **Java Movie Database Backend** | Containerised REST API serving 3.7M+ records with auth & CI/CD | Javalin • PostgreSQL • Docker • GitHub Actions |
-
+| **Advanced RAG System** | Multi-agent retrieval pipeline with local LLM inference and advanced document search | FAISS • LangGraph • SentenceTransformers • llama.cpp |
+| **Real-Time Transaction Pipeline** | Event-driven platform for streaming, processing, and anomaly detection in real time | Redpanda • Apache Flink • Redis • Docker |
+| **PneumaML** | End-to-end chest X-ray analysis platform with CNN-based classification, FastAPI inference, React frontend, and explainability visualisations | PyTorch • CNNs • FastAPI • React • Computer Vision |
+| **Java Movie Database Backend** | Containerised REST API serving 3.7M+ records with authentication, CI/CD, and production-style backend tooling | Javalin • PostgreSQL • Docker • GitHub Actions |
 
 ---
 
@@ -43,7 +43,7 @@ Built scalable REST APIs, distributed pipelines, and Retrieval-Augmented Generat
 **Languages:** Java, Python, SQL, C++, JavaScript  
 
 **Backend & Systems:**  
-REST APIs • Distributed Systems • Event-Driven Architecture • Javalin • Django REST  
+REST APIs • Distributed Systems • Event-Driven Architecture • Javalin • Django REST • FastAPI  
 
 **Databases & Data:**  
 PostgreSQL • Redis • FAISS (Vector Search)  
@@ -52,7 +52,10 @@ PostgreSQL • Redis • FAISS (Vector Search)
 Apache Flink • Redpanda (Kafka-compatible)  
 
 **AI / ML:**  
-RAG • SentenceTransformers • PyTorch • NumPy • Pandas  
+RAG • CNNs • Computer Vision • SentenceTransformers • PyTorch • NumPy • Pandas • Explainable AI  
+
+**Frontend:**  
+React • Vite • CSS  
 
 **DevOps & Tools:**  
 Docker • Docker Compose • GitHub Actions • Maven • Linux  
@@ -61,8 +64,7 @@ Docker • Docker Compose • GitHub Actions • Maven • Linux
 
 ## 📈 Currently Working On
 
-- Optimising retrieval performance (precision/recall, latency trade-offs)
-- Full stack cyber safety education app tailored towards senior consumers (wrt to age)
-- Scaling backend systems with caching and distributed design  
+- Optimising retrieval performance across precision, recall, and latency trade-offs
+- A full stack cyber safety education app tailored towards senior consumers
+- Scaling backend systems with caching and distributed design
 
----
